@@ -1,4 +1,4 @@
-## [![Shumail header](https://github.com/mshumaildev/mshumaildev/blob/main/assets/banner.webp)](https://daily-dev-tips.com)
+## [![Shumail header](https://github.com/shumail-cp/shumail-cp/blob/main/assets/banner.webp)](https://daily-dev-tips.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shumail-ansari/)
@@ -15,18 +15,18 @@
 
 # My GitHub Trophies 🏆
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mshumaildev&theme=radical&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=shumail-cp&theme=radical&column=7)
 
 
 # My GitHub Streak 🔥
 
-![Shumail's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mshumaildev&theme=radical)
+![Shumail's github streak](https://github-readme-streak-stats.herokuapp.com/?user=shumail-cp&theme=radical)
 
 # My GitHub Top Languages 📈
 
-![Shumail's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mshumaildev&theme=radical)
+![Shumail's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shumail-cp&theme=radical)
 
 
 # My GitHub Contributions 💻
 
-![Shumail's github contributions](https://github-contribution-stats.vercel.app/api/?username=mshumaildev&theme=radical)
+![Shumail's github contributions](https://github-contribution-stats.vercel.app/api/?username=shumail-cp&theme=radical)
